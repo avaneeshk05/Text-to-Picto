@@ -15,8 +15,10 @@ were used to assess the model’s performance. The proposed model achived a Pict
 Link to our paper: https://ceur-ws.org/Vol-3740/paper-154.pdf
 
 We were palced first in the leaderboard globally for this task !
+
+
 How it works ?
 Source text: "il y a un moment donné elle nous avait dit essayez de pas dire de mots français pendant le truc."
 
-Output:
+
 ![image](https://github.com/user-attachments/assets/c56be656-9e43-4a0d-b21d-21305f347596)
